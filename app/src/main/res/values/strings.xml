@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P3P7_7S21</string>
+    <string name="tituli">Consumiendo API php</string>
+    <string name="lid">Id</string>
+    <string name="hid">id</string>
+    <string name="lnombre">Nombre</string>
+    <string name="hnombre">Nombre</string>
+    <string name="ledad">Edad</string>
+    <string name="hedad">Edad</string>
+    <string name="lcorreo">Correo</string>
+    <string name="hcorreo">Correo</string>
+    <string name="btnactualizar">Actualiza</string>
+    <string name="btnelimina">Eliminar</string>
+    <string name="btninserta">Insertar</string>
+</resources>
